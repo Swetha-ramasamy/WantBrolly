@@ -1,4 +1,4 @@
-# WantBrolly 
+# WantBrolly - Rainfall classification
 
 A machine learning project with different model comparison, data analysis and predicts the downpour through the dataset.
 
@@ -6,7 +6,7 @@ The dataset is a Australia weather dataset with a combination of string and nume
 
 The wantBrolly project classifies whether there will be rain today or not as well as tomorrow, brolly is the other name of umbrella so the project classifies whether there is a need to take umbrella or not.
 
-THE FLOW OF THE PROJECT
+# THE FLOW OF THE PROJECT
 
 Data cleaning - removing null values, removing unnecessary columns and rows
 
